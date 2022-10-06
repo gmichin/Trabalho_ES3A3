@@ -9,14 +9,14 @@
 
 ### Padrões escolhidos
 
-criacionais:
-- Builder;
-- Prototype;
+- Criacionais:
+ Builder;
+ Prototype;
 
-estruturais: 
-- Proxy;
-- Facade;
+- Estruturais: 
+ Proxy;
+ Facade;
 
-comportamentais:
-- Command;
-- Observer:;
+- Comportamentais:
+ Command;
+ Observer:;
