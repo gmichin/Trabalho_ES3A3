@@ -18,5 +18,5 @@
  Facade;
 
 - Comportamentais:
- Command;
+ Iterator;
  Observer:;
